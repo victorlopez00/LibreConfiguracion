@@ -1,11 +1,10 @@
-<p>Bill vió al desconocido subirse a un coche negro sin matrícula por lo que se subió a su coche y le empezo a 
-perseguir. El encapuchado empezó a dispararle para intentar pincharle una rueda pero no acertó. El desconocido
-huyó hacia el centro de la ciudad, se bajó del coche y empezó a correr.</p>
+Bill viÃ³ al desconocido subirse a un coche negro sin matrÃ­cula por lo que se subiÃ³ a su coche y le empezo a 
+perseguir. El encapuchado empezÃ³ a dispararle para intentar pincharle una rueda pero no acertÃ³. El desconocido
+huyÃ³ hacia el centro de la ciudad, se bajÃ³ del coche y empezÃ³ a correr.
 
-<p>Desesperado Bill corrió tras el suplicandole que parase, mientras que el desconocido empezó a insultarlo en
-portugués. Siguieron corriendo hasta que un hombre empezó a pedir ayuda.</p>
+Desesperado Bill corriÃ³ tras el suplicandole que parase, mientras que el desconocido empezÃ³ a insultarlo en
+portuguÃ©s. Siguieron corriendo hasta que un hombre empezÃ³ a pedir ayuda.
 
-<p>Elige que quieres que haga Bill: [ayudar al hombre] (./ayudar.md) o [seguir persiguiendo al desconocido]
- (./persecucionD.md)</p>
+Elige que quieres que haga Bill: [ayudar al hombre] (https://github.com/victorlopez00/LibreConfiguracion/blob/master/ayudar.md) o [seguir persiguiendo al desconocido](https://github.com/victorlopez00/LibreConfiguracion/blob/master/persecuciondesc.md)
 
 
